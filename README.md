@@ -13,7 +13,7 @@ It is ran with app.js to serve a consistently initiated Tree-Sitter parser.
 node app.js
 ```
 
-Other scripts and created Classes in 'Classes' directory are rewritten to be used in Lov-blocks-web by calling:
+Other scripts and created Classes in ```Classes``` directory are rewritten to be used in Love-blocks-web environment by importing and calling method from ```createBlocks.js```:
 ```javascript
 createBlocks(source_code)
 ```
