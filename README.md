@@ -3,7 +3,7 @@ Unsuccessful attempt to create API which would allow a use of my extension in Lo
 (https://github.com/meda10/Love-blocks-web)
 
 ## Installation
-All modules needed should a part of the repositary, but run npm install in main directory if encountering problems.
+All modules needed should a part of the repositary, but run '''npm install''' in main directory if encountering problems.
 
 ## Main parts
 index.js contains a simple API server where we first tried to shift parsing with Tree-Sitter and creating blocks for Blockly.
